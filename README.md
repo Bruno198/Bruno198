@@ -1,4 +1,4 @@
-👍
+<stong>👍Me chamo Bruno Figueira</strong>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
