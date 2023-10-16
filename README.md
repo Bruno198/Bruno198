@@ -1,4 +1,4 @@
-<strong>👍Me chamo Bruno Figueira</strong>
+<h1>👍Me chamo Bruno Figueira</h1>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
